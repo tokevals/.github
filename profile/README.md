@@ -1,6 +1,6 @@
-# TokEvals
+# tokevals
 
-TokEvals is an open-source research and engineering project for measuring,
+tokevals is an open-source research and engineering project for measuring,
 explaining, visualizing, and reducing multilingual LLM tokenization
 inefficiency. Korean is the first optimization case, English is the initial
 baseline, and the framework is designed to support additional languages
