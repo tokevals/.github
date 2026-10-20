@@ -14,7 +14,7 @@ latency, memory, energy, and monetary cost remain separate measurements.
 | Repository | Purpose |
 | --- | --- |
 | [tokevals](https://github.com/tokevals/tokevals) | Reusable Python library for multilingual tokenizer evaluation. |
-| [tokevals-explorer](https://github.com/tokevals/tokevals-dashboard) | Public byte-safe token comparison dashboard and hosted-count Worker. |
+| [tokevals-explorer](https://github.com/tokevals/tokevals-explorer) | Public byte-safe token comparison dashboard and hosted-count Worker. |
 | [tokevals-research](https://github.com/tokevals/tokevals-research) | Research scope, experiment configurations, reproducible results, and writeups. |
 
 Explore the live tokenizer comparison at [tokevals.dev](https://tokevals.dev)
